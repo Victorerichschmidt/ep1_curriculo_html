@@ -1,0 +1,14 @@
+<html>
+ <body>
+  <h1>Victor</H1>
+  <h2>Dados pessoais</h2>
+   <ul>
+    <li>Bairro</li>
+    <li>Rua</li>
+    <li>Cidade</li>
+    <li>CEP</li>
+    <li>Estado</li>
+    <li>Idade</li>
+    <li>Nacionalidade</li>
+   </ul>
+  <h2>objetivo</h2>
